@@ -1,0 +1,5 @@
+{
+  "name": "Elevate Fourteen",
+  "description": "A high-class progress tracker with an integrated AI agent for motivation and discipline.",
+  "requestFramePermissions": ["microphone"]
+}
